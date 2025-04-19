@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630261153378",
+    "project_id": "invisiblelabour-a5ecf",
+    "storage_bucket": "invisiblelabour-a5ecf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630261153378:android:e236265d30f511e3171b3b",
+        "android_client_info": {
+          "package_name": "com.example.invisible_labour_awarness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrFU6txwu2etxMCpWGGFd72KutVypeC2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
